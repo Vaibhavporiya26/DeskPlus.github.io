@@ -335,7 +335,7 @@ li {
 
 .menu-inner > li:nth-child(2) > a > i {
     position: absolute;
-    left: 132px;
+    left: 134px;
     font-weight: 600;
     font-size: 10px;  
     top: 18px;
@@ -419,7 +419,7 @@ li {
 
 .menu-inner > li:nth-child(3) > a > i {
     position: absolute;
-    left: 118px;
+    left: 120px;
     font-weight: 600;
     right: 5px;
     font-size: 10px;  
@@ -582,7 +582,7 @@ li {
 
 .menu-inner > li:nth-child(4) > a > i {
     position: absolute;
-    left: 142px;
+    left: 144px;
     font-weight: 600;
     right: 5px;
     font-size: 10px;  
