@@ -180,7 +180,11 @@ li {
 }
 
 .inner-center-header .center-h .top-links{
-    width: auto;
+    width: 35%;
+}
+
+.inner-center-header .center-h .top-links ul{
+    text-align: right;
 }
 
 .inner-center-header .center-h .top-links ul li {
@@ -188,7 +192,7 @@ li {
     font-size: 12px;
     margin: 0 auto;
     padding: 0;
-    margin: 0 15px;
+    margin: 0 5px;
     text-transform: capitalize;
     color: #333;
     font-weight: 500;   
